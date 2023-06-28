@@ -1,6 +1,10 @@
 # Welcome to my Profile
 
-<!---
-brian-ikiara/brian-ikiara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Checkout deez stats... :sweat_smile:
+
+<p>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brian-ikiara&count_private=true&show_icons=trues" />
+    </a>
+</p>
