@@ -51,4 +51,7 @@
 
 <div align="center">
 <a href="https://linkedin.com/in/br14n-1k14r4" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/brian_ikiara" target="_blank"><img src="https://img.shields.io/badge/X-black?style=plastic&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/@brian_ikiara" target="_blank"><img src="https://img.shields.io/badge/Instagram-962fbf?style=plastic&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/brian.ikiara.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=facebook&logoColor=white" /></a>
 </div>
