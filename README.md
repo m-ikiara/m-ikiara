@@ -1,12 +1,6 @@
-# Welcome, Willkommen, bienvenue?😅
+<h1 align="center">🧔 Brian M'Ikiara</h1>
 
-## 🚀 So, who am I basically? 
-
-Name: 🧔 Brian M'Ikiara
-
-Title: 👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier
-
-From: 🇰🇪 Kenya
+<p align="center">👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier</p>
 
 ## 🛠️ What I've done so far...
 
