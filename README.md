@@ -2,6 +2,12 @@
 <h1 align="center">🧔 Brian M'Ikiara</h1>
 
 <p align="center">👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Best_Project-6utt3rd09-yellow?style=plastic&logo=python&color=red" />
+<img src="https://komarev.com/ghpvc/?username=brian-ikiara&label=Profile%20views&color=red&style=plastic" alt="brian-ikiara" />
+<img src="https://img.shields.io/github/last-commit/brian-ikiara/alx-interview?display_timestamp=committer&style=plastic&color=blue" />
+<img src="https://img.shields.io/github/commit-activity/w/brian-ikiara/brian-ikiara?style=plastic&logo=python&logoColor=red&color=white" />
+</div>
 
 ## 🛠️ What I've done so far...
 
@@ -38,4 +44,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:40px;height:40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width:40px;height:40px" />                              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" style="width:40px;height:40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width:40px;height:40px" />          
 </div>
