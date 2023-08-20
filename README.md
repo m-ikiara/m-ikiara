@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <h1 align="center">🧔 Brian M'Ikiara</h1>
 
 <p align="center">👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier</p>
@@ -19,20 +20,21 @@
 ## 👨‍💻 "What technologies do I use?" You ask...
 
 <div align=center>
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django Logo" width="100px" />
-<img src="https://flask.palletsprojects.com/en/2.1.x/_static/flask-icon.png" alt="Flask Logo" width="100px" />
-<img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/favicon.ico" alt="React Logo" width="100px" />
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js Logo" width="100px" />
-<img src="https://raw.githubusercontent.com/expressjs/expressjs.com/master/images/favicon.png" alt="Express Logo" width="100px" />
-<img src="https://vuejs.org/images/logo.png" alt="Vue Logo" width="100px" />
-<img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++ Logo" width="100px" />
-<img src="https://raw.githubusercontent.com/dotnet/brand/master/logo/CSharp_Logo_256.png" alt="C# Logo" width="100px" />
-<img src="https://www.libsdl.org/media/SDL_logo.png" alt="SDL2 Logo" width="100px" />
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB Logo" width="100px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/256px-Tux.svg.png" alt="Linux Logo" width="100px" />
-<img src="https://www.haproxy.com/wp-content/uploads/2016/08/haproxy-logo-1.png" alt="HAProxy Logo" width="100px" />
-<img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-logo-rgb-large.png" alt="NGINX Logo" width="100px" />
-<img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby Logo" width="100px" />
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100px" />
-<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />                                                                   
 </div>
