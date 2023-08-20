@@ -46,3 +46,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" style="width:40px;height:40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width:40px;height:40px" />          
 </div>
+
+## 👾 Do you have socials?
+
+<div align="center">
+<a href="https://linkedin.com/in/br14n-1k14r4" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=white" /></a>
+</div>
