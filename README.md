@@ -4,7 +4,7 @@
 <p align="center">👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier</p>
 <div align="center">
 <img src="https://img.shields.io/badge/Best_Project-6utt3rd09-yellow?style=plastic&logo=python&color=red" />
-<img src="https://komarev.com/ghpvc/?username=brian-ikiara&label=Profile%20views&color=red&style=plastic" alt="brian-ikiara" />
+<img src="https://komarev.com/ghpvc/?username=brian-ikiara&label=Profile%20views&color=yellow&style=plastic" alt="brian-ikiara" />
 <img src="https://img.shields.io/github/last-commit/brian-ikiara/alx-interview?display_timestamp=committer&style=plastic&color=blue" />
 <img src="https://img.shields.io/github/commit-activity/w/brian-ikiara/brian-ikiara?style=plastic&logo=python&logoColor=red&color=white" />
 </div>
