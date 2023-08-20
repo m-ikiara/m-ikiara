@@ -37,4 +37,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" style="width:40px;height:40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:40px;height:40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width:40px;height:40px" />                              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" style="width:40px;height:40px" />
 </div>
