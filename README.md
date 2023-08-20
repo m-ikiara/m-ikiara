@@ -1,7 +1,15 @@
-# Welcome to my Profile
+# Welcome, Willkommen, bienvenue?😅
 
-## Checkout deez stats... :sweat_smile:
+## 🚀 So, who am I basically? 
 
-![brian-ikiara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&layout=compact)
-![brian-ikiara's Stats](https://github-readme-stats.vercel.app/api?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![brian-ikiara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-ikiara&theme=monokai&hide_border=true)
+Name: 🧔 Brian M'Ikiara
+
+Title: 👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier
+
+From: 🇰🇪 Kenya
+
+## 🛠️ What I've done so far...
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&layout=compact" style="width:33.33%;height:20%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&count_private=true" style="width:33.34%;height:20%" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brian-ikiara&theme=monokai&hide_border=true" style="width:33.33%;height:20%" alt="Streak" />
