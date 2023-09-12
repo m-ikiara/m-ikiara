@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monofur+Nerd+font&pause=1000&color=12FFD8FA&background=EFFF1200&center=true&width=435&lines=Hello+there%2C;I'm+Brian+Ikiara.;I+make+games+and+other+software.;Happy+to+have+you+here.+%3A-D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monofur+Nerd+font&pause=1000&color=12FFD8FA&background=EFFF1200&center=true&width=435&lines=Hello+there%2C;I+make+games+and+other+software.;Happy+to+have+you+here.+%3A-D" alt="Typing SVG" /></a>
 </div>
 
 ## 🛠️ What I've done so far...
