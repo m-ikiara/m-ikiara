@@ -7,8 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=brian-ikiara&label=Profile%20views&color=yellow&style=plastic" alt="brian-ikiara" />
 <img src="https://img.shields.io/github/last-commit/brian-ikiara/alx-interview?display_timestamp=committer&style=plastic&color=blue" />
 <img src="https://img.shields.io/github/commit-activity/w/brian-ikiara/brian-ikiara?style=plastic&logo=python&logoColor=red&color=white" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monofur+Nerd+font&pause=1000&color=12FFD8FA&background=EFFF1200&center=true&width=435&lines=Hello+there%2C;I'm+Brian+Ikiara.;I+make+games+and+other+software.;Happy+to+have+you+here.+%3A-D" alt="Typing SVG" /></a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monofur+Nerd+font&pause=1000&color=12FFD8FA&background=EFFF1200&center=true&multiline=true&width=435&lines=Hello+there%2C;I'm+Brian+Ikiara.;I+make+games+and+other+software.;Happy+to+have+you+here.+%3A-D" alt="Typing SVG" /></a>
+
 
 ## 🛠️ What I've done so far...
 
