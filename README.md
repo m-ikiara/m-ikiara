@@ -13,7 +13,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monofur+Nerd+font&pause=1000&color=12FFD8FA&background=EFFF1200&center=true&width=435&lines=Hello+there%2C;I+make+games+and+other+software.;Happy+to+have+you+here.+%3A-D" alt="Typing SVG" /></a>
 </div>
 
-## 🛠️ What I've done so far...
+<h2 align="center">🛠️ What I've done so far...</h2>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian-ikiara&theme=monokai&hide_border=true" style="width:33.33%;height:20%" alt="Streak" />
@@ -21,13 +21,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&layout=compact" style="width:440px;height:160px" alt="Top Languages" />
 </div>
 
-## 🏆 You could call me a winner...
+<h2 align="center">🏆 You could call me a winner...</h2>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=onedark" alt="brian-ikiara" /></a>
 </p>
 
-## 👨‍💻 "What technologies do I use?" You ask...
+<h2 align="center">👨‍💻 "What technologies do I use?" You ask...</h2>
 
 <div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:40px;height:40px" />
@@ -51,7 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width:40px;height:40px" />          
 </div>
 
-#### 👾 Do you have socials?
+<h4 align="center">👾 Do you have socials?</h4>
 
 <div align="center">
 <a href="https://linkedin.com/in/br14n-1k14r4" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=white" /></a>
