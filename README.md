@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <h1 align="center">🧔 Brian M'Ikiara</h1>
 
-<p align="center">👽Game Developer | 🤖Software Developer | 👨‍⚖️Gavelier</p>
+<p align="center">👽Applied AI Fellow | 🤖Software Developer</p>
 <div align="center">
 <a href='https://github.com/brian-ikiara/7om0mi'>
     <img src="https://img.shields.io/badge/Best_Project-7om0mi-yellow?style=plastic&logo=python&color=red" />
@@ -26,7 +26,7 @@
 <h2 align="center">🏆 You could call me a winner...</h2>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=gruvbox&rank=-C,-B&column=5&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Ikiara's Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=gruvbox&rank=-C,-B,-SECRET&row=2&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Ikiara's Trophies" /></a>
 </p>
 
 <h2 align="center">👨‍💻 "What technologies do I use?" You ask...</h2>
