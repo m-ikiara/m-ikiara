@@ -26,7 +26,7 @@
 <h2 align="center">🏆 You could call me a winner...</h2>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=gruvbox&rank=-C,-B,-SECRET&row=2&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Ikiara's Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A&row=2&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Ikiara's Trophies" /></a>
 </p>
 
 <h2 align="center">👨‍💻 "What technologies do I use?" You ask...</h2>
