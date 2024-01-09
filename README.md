@@ -12,4 +12,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ikiara&theme=monokai&show_icons=true&hide_border=true&layout=compact" style="width:440px;height:160px" alt="Ikiara's Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=brian-ikiara&theme=gruvbox&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true" />
 </div>
