@@ -1,37 +1,90 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="./assets/img/3-tomoko.png"
+     style="width:100%;height:100%"
+     alt="Profile Banner"
+ />
+
+## About Me
+
+* I write C as it's the simplest language known to man.
+* I'm currently learning Rust, PHP, Go, Haskell and OCaml.
+* Back-End Technology has always fascinated me.
+* I appreciate questions on WASM, NASM, BASM and FASM
+* I love Memes, Pokemon and Chess
+
+## Projects I'm Currently Working on
+
+| Project Name | Description |
+| :---: | :---: |
+| [6utt3r](https://github.com/m-ikiara/6utt3r) | A Raycaster written in C and SDL2 |
+| [v0latil3](https://github.com/m-ikiara/v0latil3) | A Forex Trading bot written in Rust |
+
+## Tools and Technologies I use
+
 <div align="center">
-<a href='https://github.com/m-ikiara/7om0mi'>
-    <img src="https://img.shields.io/badge/Best_Project-7om0mi-yellow?style=plastic&logo=python&color=red" />
-</a>
-<img src="https://img.shields.io/github/last-commit/m-ikiara/alx-interview?display_timestamp=committer&style=plastic&color=blue" />
-<img src="https://img.shields.io/github/commit-activity/w/m-ikiara/m-ikiara.github.io?style=plastic&logo=python&logoColor=red&color=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-plain-wordmark.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-plain.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" style="width:40px;height:40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" style="width:40px;height:40px" />
 </div>
 
-<h2 align="center">✨ about me...</h2>
+## Current Profile Statistics
 
-👨🏾‍🎓 a Holberton School grad,
-👨🏾‍🔬 a chemistry major,
-😌 memes fuel my purpose,
-🚘 the journey of self-discovery drives me.
+![General Info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-ikiara&theme=gruvbox)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-ikiara&theme=gruvbox)
+![Commits Per Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-ikiara&theme=gruvbox)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-ikiara&theme=gruvbox)
+![Productivity Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-ikiara&theme=gruvbox&utcOffset=8)
 
-<h2 align="center">🤲🏾 i believe in...</h2>
-  
-🎨 the art of software craftsmanship,
-🎭 storytelling,
-🌱 new beginnings.
+## My Location[^1]
 
-<h2 align="center">📖 here's my story up to now</h2>
+```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
+     }
+   }
+ ]
+}
 
-🧠 got diagnosed with a serious disease,
-🫂 found a community of people like me,
-👥 they became my support,
-🦾 decided to build myself from scratch,
-5️⃣ years now... #stayinghard
+```
 
-<h2 align="center">🛠️ my stack</h2>
+[^1]: Specifically for Hackers who want to visit me and maybe be my friend.
+
+## Number of Visitors to my Profile
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ikiara&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" style="width:440px;height:160px" alt="Ikiara's Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=m-ikiara&theme=gruvbox&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&layout=compact" style="width:440px;height:160px" alt="Ikiara's Stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=m-ikiara&theme=gruvbox&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true" />
+    <img src="https://count.getloli.com/get/@m-ikiara.github.readme" alt="Loli Counter" />
 </div>
