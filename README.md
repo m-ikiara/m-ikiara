@@ -58,31 +58,29 @@
 
 ```geojson
 {
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [-0.4404716855565039, 36.96245642698538],
-         ]
-       ]
-     }
-   }
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4404716855565039, 36.96245642698538]
+      }
+    }
+  ]
 }
 ```
+
+[^1]: Specifically for Hackers who want to visit me and maybe be my friend.
+
 ## My Contributions in a Nutshell
 
 ![Animated Contributions](./profile-3d-contrib/profile-south-season-animate.svg)
 
-[^1]: Specifically for Hackers who want to visit me and maybe be my friend.
 
 ## Number of Visitors to my Profile
 
