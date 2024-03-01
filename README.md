@@ -70,16 +70,17 @@
        "type": "Polygon",
        "coordinates": [
          [
-             [23.5,53.9],
-             [32.6,52.6]
+             [-0.4404716855565039, 36.96245642698538],
          ]
        ]
      }
    }
  ]
 }
-
 ```
+## My Contributions in a Nutshell
+
+![Animated Contributions](./profile-3d-contrib/profile-south-season-animate.svg)
 
 [^1]: Specifically for Hackers who want to visit me and maybe be my friend.
 
