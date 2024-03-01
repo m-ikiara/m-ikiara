@@ -58,30 +58,26 @@
 
 ```geojson
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-0.4404716855565039 - 0.01, 36.96245642698538 + 0.01],
-            [-0.4404716855565039 + 0.01, 36.96245642698538 + 0.01],
-            [-0.4404716855565039 + 0.01, 36.96245642698538 - 0.01],
-            [-0.4404716855565039 - 0.01, 36.96245642698538 - 0.01],
-            [-0.4404716855565039 - 0.01, 36.96245642698538 + 0.01]
-          ]
-        ]
-      }
-    }
-  ]
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [0.44,36.94],
+             [0.45,36.98]
+         ]
+       ]
+     }
+   }
+ ]
 }
-
 ```
 
 [^1]: Specifically for Hackers who want to visit me and maybe be my friend.
