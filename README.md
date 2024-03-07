@@ -2,11 +2,11 @@
 
 ## About Me
 
-* :lower_left_ballpoint_pen: I write C as it's the simplest language known to man.
+* :pencil2: I write C as it's the simplest language known to man.
 * :books: I'm currently learning Rust, PHP, Go, Haskell and OCaml.
 * :sparkles: I'm fascinated by Back-End Technology. 
-* :thinking_face: I appreciate questions on WASM, NASM, BASM and FASM
-* :heavy_heart_exclamation_mark_ornament: I love Memes, Pokemon and Chess
+* :thinking: I appreciate questions on WASM, NASM, BASM and FASM
+* :sparkling_heart: I love Memes, Pokemon and Chess
 
 ## Projects I'm Currently Working on
 
