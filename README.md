@@ -1,14 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img src="./assets/img/3-tomoko.png"
-     style="width:100%;height:100%"
-     alt="Profile Banner"
- />
-
 ## About Me
 
 * I write C as it's the simplest language known to man.
 * I'm currently learning Rust, PHP, Go, Haskell and OCaml.
-* Back-End Technology has always fascinated me.
+* I'm fascinated by Back-End Technology. 
 * I appreciate questions on WASM, NASM, BASM and FASM
 * I love Memes, Pokemon and Chess
 
@@ -49,9 +44,6 @@
 ## Current Profile Statistics
 
 ![General Info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-ikiara&theme=gruvbox)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-ikiara&theme=gruvbox)
-![Commits Per Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-ikiara&theme=gruvbox)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-ikiara&theme=gruvbox)
 ![Productivity Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-ikiara&theme=gruvbox&utcOffset=8)
 
 ## My Location[^1]
@@ -71,7 +63,7 @@
        "coordinates": [
          [
              [-0.44,36.94],
-             [-0.45,36.98]
+             [-1.26,36.82]
          ]
        ]
      }
@@ -80,12 +72,11 @@
 }
 ```
 
-[^1]: Specifically for Hackers who want to visit me and maybe be my friend.
+[^1]: Specifically for Hackers who want to visit me.
 
 ## My Contributions in a Nutshell
 
 ![Animated Contributions](./profile-3d-contrib/profile-south-season-animate.svg)
-
 
 ## Number of Visitors to my Profile
 
