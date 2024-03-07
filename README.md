@@ -79,8 +79,10 @@
 
 ![Animated Contributions](./profile-3d-contrib/profile-south-season-animate.svg)
 
-## Number of Visitors to my Profile
+## Number of Visitors to my Profile[^2]
 
 <div align="center">
     <img src="https://count.getloli.com/get/@m-ikiara.github.readme" alt="Loli Counter" />
 </div>
+
+[^2]: Why you no follow?😢
