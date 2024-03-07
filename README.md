@@ -2,11 +2,11 @@
 
 ## About Me
 
-* I write C as it's the simplest language known to man.
-* I'm currently learning Rust, PHP, Go, Haskell and OCaml.
-* I'm fascinated by Back-End Technology. 
-* I appreciate questions on WASM, NASM, BASM and FASM
-* I love Memes, Pokemon and Chess
+* :lower_left_ballpoint_pen: I write C as it's the simplest language known to man.
+* :books: I'm currently learning Rust, PHP, Go, Haskell and OCaml.
+* :sparkles: I'm fascinated by Back-End Technology. 
+* :thinking_face: I appreciate questions on WASM, NASM, BASM and FASM
+* :heavy_heart_exclamation_mark_ornament: I love Memes, Pokemon and Chess
 
 ## Projects I'm Currently Working on
 
@@ -45,7 +45,6 @@
 ## Current Profile Statistics
 
 ![General Info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-ikiara&theme=gruvbox)
-![Productivity Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-ikiara&theme=gruvbox&utcOffset=8)
 
 ## My Location[^1]
 
