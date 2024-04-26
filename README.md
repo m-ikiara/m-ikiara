@@ -31,6 +31,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" style="width:40px;height:40px" />
 </div>
 
+## Skills Summary
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=m-ikiara&skills=C,Rust,Python,HTML,Javascript&width=800" />
+
 ## Visitors
 
 <div align="center">
