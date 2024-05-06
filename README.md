@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## My Contributions in a Nutshell
+## My Contributions
 
 ![Animated Contributions](./profile-3d-contrib/profile-south-season-animate.svg)
 
@@ -30,10 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" style="width:40px;height:40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" style="width:40px;height:40px" />
 </div>
-
-## Skills Summary
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=m-ikiara&skills=C,Rust,Python,HTML,Javascript&width=800" />
 
 ## Visitors
 
